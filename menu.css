@@ -1,0 +1,23 @@
+
+.nav { background-color: White;
+        list-style-type: none;
+        text-align: center;
+        margin: 0px;
+        padding: 0px;}
+.nav li {display: inline-block;
+        font-size: 15px;
+        padding: 10px}
+ul a:link {color: #555251;
+        text-decoration: none;}
+#left {position:float;
+        float:left;
+        width:25%;
+        background-color:White;
+        }
+#right {position:float;
+        float:right;
+        width:25%;
+        background-color:White;}
+aside, section {
+      padding: 2px;
+      background-color: white }

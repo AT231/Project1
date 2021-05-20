@@ -1,0 +1,17 @@
+.banner { background: url("https://s3.amazonaws.com/codecademy-content/courses/ltp/img/lodging.png");
+    background-repeat: no-repeat;
+    color: White;
+    min-height: 500px;
+    }
+h1 {position:absolute;
+top: 180px;
+left: 200px;
+font-size: 50px;
+font-weight: bold;
+}
+#p {position:absolute;
+top: 250px;
+left: 200px;
+font-size:20px;
+}
+    
